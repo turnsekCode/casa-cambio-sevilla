@@ -11,7 +11,7 @@ const Section_uno = () => {
     <section className={styles.contenedorSectionUno}>
       <div className={styles.bloqueIzq}>
         <h1>
-          Casas de cambio en <span className={styles.linea}>Sevilla</span>
+          Casas de cambio <span className={styles.linea}>Sevilla</span>
         </h1>
         <p>
           En nuestras casas de cambio en Sevilla puedes cambiar más de 30
